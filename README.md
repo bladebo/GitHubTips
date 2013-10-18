@@ -12,9 +12,9 @@ How to update a forked repo inside github.com website:
 * Click on the "edit" button at the right of the line where you have names of the original repo and your repo.
 * It will appear some buttons, one with a "base fork" and the other with "head fork".
 * Change "base fork", with your fork. Page will refresh and said nothing to compare (Hey, you try to compare your own repo with itself !)
-* As you try to compare you own repo, Git think you wanted to compare your branchs and remove the head/base buttons. Re-click on the "edit" button, and click on the link who appears: "compare across forks"
+* As you try to compare you own repo, Git think you want to compare your branchs and remove the head/base buttons. Re-click on the "edit" button, and click on the link who appears: "compare across forks"
 * The base/head fork buttons will re-appears, then change the Head fork with the original fork.
-* If   all is up to date, no new commit Else you will see the list of commits from the original repo.
+* If all is up to date, no new commit Else you will see the list of commits from the original repo.
 * Validate the pull request to send it in your list inside your repo.  
 * Next, you can do like any other pull request. Github will see if you can merge directly the pull request with your repo.
 
