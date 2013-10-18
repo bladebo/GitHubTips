@@ -11,7 +11,7 @@ How to update a forked repo inside github.com website:
 
 * Click on the "edit" button at the right of the line where you have names of the original repo and your repo.
 * It will appear some buttons, one with a "base fork" and the other with "head fork".
-* Change "base fork", with your fork. page will refresh and said anithing to compare.
+* Change "base fork", with your fork. page will refresh and said anything to compare (Hey, you try to compare your own repo with itself !).
 * Re-click on the "edit" button, and click on the link who appears: "compare across forks"
 * The base/head fork buttons will re-appears, then change the Head fork with the original fork.
 * 
